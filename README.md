@@ -33,3 +33,7 @@ Create Files:
 index.html (Structure of the chatbot)
 style.css (Styling and layout)
 script.js (Chatbot logic)
+
+output
+
+![Image](https://github.com/user-attachments/assets/757f03ce-f7e9-464b-b493-d21c10bf37d2)
